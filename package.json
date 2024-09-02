@@ -1,0 +1,13 @@
+{
+  "name": "estagio",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "José Lucas :)",
+  "license": "ISC",
+  "description": "Vaga estágio Target",
+  "dependencies": {
+    
+  }
+}
